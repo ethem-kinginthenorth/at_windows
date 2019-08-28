@@ -1,0 +1,3 @@
+class1: windshield
+output_folder: \\sashq\root\data\DeepLearn\ethem\v_data\day\split_sets\training_new_car\annotations
+iteration_type: all
