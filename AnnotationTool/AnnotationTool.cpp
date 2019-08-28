@@ -381,7 +381,7 @@ int main(int argc, const char** argv)
 					}
 				}
 				fileOut.close();
-			}
+			}//
 			if (gotoNextImage == 1) {
 				if( sequential == 1)
 					firstFileName = getNextImage(last_slash, filename, found);
